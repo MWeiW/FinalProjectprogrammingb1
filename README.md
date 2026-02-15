@@ -2,7 +2,7 @@ Wei Wong - HTW Berlin - 15.02.2026.
 
 Hello, this is a RESTful API built using FastAPI.
 
-It allows you to:
+It allows users to:
 - Create tasks
 - View all tasks
 - View a single task
